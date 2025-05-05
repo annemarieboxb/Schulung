@@ -1,3 +1,3 @@
 # Schulung
 
-##Vorlageprojekt für die Schulung
+##Vorlageprojekt für  Schulung
